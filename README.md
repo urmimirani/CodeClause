@@ -1,4 +1,4 @@
-# Task 1
+# Task 1- Currency Converter
 AIM
 Create a currency converter that converts amounts between different currencies.
 
@@ -11,7 +11,7 @@ Python
 THINGS LEARNT
 Handling user input, Basic mathematical operations, Currency conversion logic
 
-# Task 2
+# Task 2- Simple Text Editor
 AIM
 Develop a basic text editor using Python that allows users to create, edit, and save text files.
 
